@@ -31,3 +31,8 @@ Outlets in Tier 1 and 2 locations may be underperforming due to poor inventory a
 - Reevaluate store format strategy in Tier 1 locations.
 - Use Tier 3 performance models to guide new outlet openings.
 
+## Conclusion
+The analysis shows that FreshMart’s sales performance varies by location and product type. With targeted strategies around healthier options and outlet optimization, the company can significantly improve overall profitability and customer satisfaction.
+
+## Tools Used
+Microsoft Excel & Power BI
