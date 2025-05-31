@@ -1,2 +1,2 @@
 # Sales Analysis for Freshmart
-## Analysis
+![header-image](header-image.PNG) 
