@@ -18,7 +18,7 @@ The dataset includes information on items sold (Item Type, Fat Content, Visibili
 - Supermarket Type1 consistently outperforms Grocery Stores in total sales and variety.
 
 ## Dashboard
-![dashboard](frreshmart-dashboard.PNG)
+![dashboard](freshmart-dashboard.PNG)
 
 Click the link to explore the Power BI report: [Click here](https://app.powerbi.com/view?r=eyJrIjoiMzA4M2Q3NjUtMWYwOC00ZDRiLWE4MzgtZmIzOGY0NWYxMmJiIiwidCI6IjZjNzQ3Mzg1LTUyNTktNDcwMS05MTkzLTc5ZTkxNWNlYjA3ZSJ9)
 
