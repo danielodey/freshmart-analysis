@@ -20,6 +20,7 @@ The dataset includes information on items sold (Item Type, Fat Content, Visibili
 ## Dashboard
 ![dashboard](freshmart-dashboard.PNG)
 
+## Link to Power BI Report
 Click the link to explore the Power BI report: [Click here](https://app.powerbi.com/view?r=eyJrIjoiMzA4M2Q3NjUtMWYwOC00ZDRiLWE4MzgtZmIzOGY0NWYxMmJiIiwidCI6IjZjNzQ3Mzg1LTUyNTktNDcwMS05MTkzLTc5ZTkxNWNlYjA3ZSJ9)
 
 ## Business Implications
