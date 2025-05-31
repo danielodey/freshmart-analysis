@@ -1,1 +1,2 @@
-# freshmart-analysis
+# Sales Analysis for Freshmart
+## Analysis
