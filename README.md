@@ -17,6 +17,11 @@ The dataset includes information on items sold (Item Type, Fat Content, Visibili
 - Tier 3 outlets have the highest average sales despite smaller sizes.
 - Supermarket Type1 consistently outperforms Grocery Stores in total sales and variety.
 
+## Dashboard
+![dashboard](frreshmart-dashboard.PNG)
+
+Click the link to explore the Power BI report: [Click here](https://app.powerbi.com/view?r=eyJrIjoiMzA4M2Q3NjUtMWYwOC00ZDRiLWE4MzgtZmIzOGY0NWYxMmJiIiwidCI6IjZjNzQ3Mzg1LTUyNTktNDcwMS05MTkzLTc5ZTkxNWNlYjA3ZSJ9)
+
 ## Business Implications
 Outlets in Tier 1 and 2 locations may be underperforming due to poor inventory alignment. Health-based product demand presents a market opportunity the company should capitalize on.
 
